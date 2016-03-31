@@ -1,0 +1,44 @@
+#include <vector>
+#include "../Tokenizer/Tokenizer.h"
+#include "iotkcollection.h"
+/*
+ Demonstrating
+ This is a C Style Comment 
+*/
+// This is a CPP Style Comment
+namespace Scanner
+{
+  using Token = std::string;
+
+  class SemiExp : public ITokCollection
+  {
+  public:
+    SemiExp(Toker* pToker = nullptr);
+    SemiExp(const SemiExp&) = delete;
+    SemiExp& operator=(const SemiExp&) = delete;
+    bool get(bool clear=true);
+    Token operator[](size_t n);
+    size_t length();
+    std::string show(bool shownewlines=false);
+	size_t find(const std::string& tok);
+	void push_back(const std::string& tok);
+	bool remove(const std::string& tok);
+	bool remove(size_t i);
+	void toLower();
+	void SemiExp::clear();
+	bool tokencollectionhasfor();
+	bool tokencollectionhassemi();
+	void trimFront();
+	bool merge(const std::string& firstTok, const std::string& secondTok);
+
+	
+  private:
+    std::vector<Token> _tokens;
+    Toker* _pToker;
+  };
+}
+for(i=0;i<n;i++)
+{
+
+}
+ "Siddharth is \"GOOD\"";

@@ -1,0 +1,6 @@
+data wff = Const Bool
+         | Var char
+         | Not wff
+         | And wff wff
+         | Or  wff wff
+         | Imply wff wff      
