@@ -1,0 +1,22 @@
+
+  <metadata>
+    <package>
+      HttpMessage
+      <version>
+        ver1
+      </version>
+      <dependencies>
+        <dependency>
+          Socketsver1
+        </dependency>
+        <dependency>
+          FileSystemver2
+        
+        </dependency>
+        <dependency>
+          Utilitiesver1
+        
+        </dependency>
+      </dependencies>
+    </package>
+  </metadata>

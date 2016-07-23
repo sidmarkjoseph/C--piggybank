@@ -1,0 +1,14 @@
+﻿  MsgClient.cpp
+  XmlParser.cpp
+  XmlElement.cpp
+  xmlElementParts.cpp
+  Tokenizer.cpp
+  XmlDocument.cpp
+  Utilities.cpp
+  Sockets.cpp
+  Logger.cpp
+  Cpp11-BlockingQueue.cpp
+  HttpMessage.cpp
+  FileSystem.cpp
+  Generating Code...
+  MsgClient.vcxproj -> C:\Users\Siddharth Joseph\Desktop\Project4finalood\Project4\CommPrototype\Debug\MsgClient.exe

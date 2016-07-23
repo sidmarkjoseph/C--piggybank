@@ -1,0 +1,17 @@
+
+  <metadata>
+    <package>
+      Sockets
+      <version>
+        ver1
+      </version>
+      <dependencies>
+        <dependency>
+          FileSystemver2
+        </dependency>
+        <dependency>
+          Utilitiesver1
+        </dependency>
+      </dependencies>
+    </package>
+  </metadata>

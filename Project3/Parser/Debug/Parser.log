@@ -1,0 +1,9 @@
+﻿  Parser.cpp
+  ConfigureParser.cpp
+  ActionsAndRules.cpp
+  Utilities.cpp
+  Tokenizer.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  Generating Code...
+  Parser.vcxproj -> C:\Users\Siddharth Joseph\Desktop\Project3\Debug\Parser.lib

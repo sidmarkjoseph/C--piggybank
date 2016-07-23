@@ -1,0 +1,28 @@
+
+  <metadata>
+    <package>
+      Logger
+      <version>
+        ver1
+      </version>
+      <dependencies>
+        <dependency>
+          HttpMessagever2
+        </dependency>
+        <dependency>
+          Socketsver1
+        
+        </dependency>
+        <dependency>
+          FileSystemver2
+        
+        
+        </dependency>
+        <dependency>
+          Utilitiesver1
+        
+        
+        </dependency>
+      </dependencies>
+    </package>
+  </metadata>

@@ -1,0 +1,8 @@
+﻿  TypeAnalysis.cpp
+  QueuedWorkItems.cpp
+  FileSystem.cpp
+  FileMgr.cpp
+  Generating Code...
+QueuedWorkItems.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+FileMgr.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  TypeAnalysis.vcxproj -> C:\Users\Siddharth Joseph\Desktop\Project3\Debug\TypeAnalysis.lib

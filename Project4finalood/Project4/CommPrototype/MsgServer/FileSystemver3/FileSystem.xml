@@ -1,0 +1,14 @@
+
+  <metadata>
+    <package>
+      FileSystem
+      <version>
+        ver3
+      </version>
+      <dependencies>
+        <dependency>
+          Utilitiesver1
+        </dependency>
+      </dependencies>
+    </package>
+  </metadata>
